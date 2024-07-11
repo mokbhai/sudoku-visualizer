@@ -1,5 +1,7 @@
 # Sudoku Solver Visualizer
 
+<video src="./sudoku.mp4" width="320" height="240" controls></video>
+
 ## Overview
 The Sudoku Solver Visualizer is an interactive tool designed to help users solve Sudoku puzzles while visualizing the solving process. It aids in understanding the logical steps involved in solving Sudoku and provides insights into different problem-solving strategies.
 
